@@ -6,7 +6,7 @@ Este é um projeto **simples de um site**, criado como parte do meu aprendizado 
 
 Você pode visitar o site que foi gerado a partir deste repositório clicando no link abaixo:
 
-[**▶️ Ver o Site Online aqui!**](https://francielioliv.github.io/aprendendo-git-github/) 
+[**▶️ Ver o Site Online aqui!**](https://francieleoliv.github.io/aprendendo-git-github-site/) 
 
 ---
 
