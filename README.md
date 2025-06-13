@@ -40,7 +40,7 @@ Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo [LICEN
 
 **Francielio Oliv**
 
-* [GitHub](https://github.com/FrancielioOliv) 
+* [GitHub](https://github.com/FrancieleOliv) 
 * [LinkedIn](https://www.linkedin.com/in/francieledeoliveiramoraes1103/)
 
 ---
